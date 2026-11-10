@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ahmad Lak
 
-<!--
-**ahmad-lak/ahmad-lak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI agents and workflow automation.** I build workflows that take repetitive work off your plate, like follow-ups, posting and data entry, with you approving what matters.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Listing Auto-Poster with Human Approval](https://ahmad-lak.github.io/project.html?p=listing-auto-poster)**: listing form with real photos, AI-drafted caption, your approval, then it posts to Facebook.
+- **[Lead Follow-Up Automation](https://ahmad-lak.github.io/project.html?p=lead-follow-up)**: a new inquiry triggers an automatic follow-up, so leads don't go cold.
+
+Each project page has a short video showing how it works.
+
+## Links
+
+- Portfolio: [ahmad-lak.github.io](https://ahmad-lak.github.io)
+- Contact: [ahmad-lak.github.io/#contact](https://ahmad-lak.github.io/#contact)
